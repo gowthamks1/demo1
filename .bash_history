@@ -117,3 +117,39 @@ git remote add origin
 clear
 git remote add origin https://github.com/gowthamks1/demo1.git
 git push origin master
+clean
+clear
+ls
+git init
+clear
+git status
+git add .
+git status
+git commit -m
+clear
+git commit -m "first commit"
+git commit -m "second commit"
+clear
+git clone
+clear
+git pust origin master
+git push origin master
+clear
+git clone
+git pull
+git branch
+git checkout
+git branch -a
+git log
+git stash
+git revert
+clear
+git diff
+git diff first c
+clear
+git log
+4b82b553e569e417f89cfd7726f33b62735a30dfclear
+clear
+git log
+git diff4b82b553e569e417f89cfd7726f33b62735a30df cee7aa2a70bdd25215749aa1eedd90a9720d41c1
+clear
